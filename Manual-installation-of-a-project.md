@@ -57,8 +57,6 @@ Date: 07-08-2023
 
 # Manual installation of project
 
-Date: 08-08-2023
-
 ## 3 Tier Architecture
 
 - Web Tier / Frontend
@@ -96,7 +94,6 @@ Date: 08-08-2023
 - We use custom AMI's such as Centos-8-DevOps-Practice AMI (AMI ID: ami-03265a0778a880afb) which is present in the community section
 - It has password authentication enabled
 - The username is centos and password is DevOps321
-- Project Documentation: [URL](https://github.com/sivadevopsdaws74s/roboshop-documentation)
 
 ## Build process
 
