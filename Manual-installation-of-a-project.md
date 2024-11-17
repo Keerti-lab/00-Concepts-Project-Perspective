@@ -171,8 +171,6 @@ Date: 07-08-2023
 
 # Manual installation of project
 
-Date: 10-08-2023
-
 ## 3 Tier Architecture
 
 - DB Tier
