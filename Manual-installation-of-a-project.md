@@ -1,6 +1,5 @@
 # Manual installation of project
 
-Date: 07-08-2023
 
 - Every application these days follow 3 tier architecture i.e. Web Tier, Application Tier and Database Tier
 - Web Tier includes Load Balancer component as well
