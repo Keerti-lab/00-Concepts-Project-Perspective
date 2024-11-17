@@ -261,7 +261,6 @@ Date: 11-08-2023
 
 # Manual installation of project
 
-Date: 14-08-2023
 
 ## RabbitMQ
 
